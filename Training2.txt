@@ -1,0 +1,2 @@
+Today i have learned How create Repository .Then have learned how cloneing into basicgit ,then swicthed the branches from mian trainingswarna while using the command git checkout  -B.Then Added the TxT file to basicgit .then Commited the 
+File and changed the user name & gmail .Than i have forwared the TXT file to Another user by the command GIT push through Basicgit .
